@@ -24,10 +24,6 @@ const thanhDeveloper = {
 };
 ```
 
-<div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
 ## 💼 What I Do
 
 - 🔭 Currently working on **frontend web applications**
@@ -92,16 +88,6 @@ const thanhDeveloper = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanhhh2512&theme=algolia&hide_border=false" alt="GitHub Streak Stats" />
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thanhhh2512&theme=algolia&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
-## 📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thanhhh2512&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</div>
-
 ## 🌐 Let's Connect!
 
 <div align="center">
@@ -115,15 +101,3 @@ const thanhDeveloper = {
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=thanhhh2512&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/thanhhh2512?label=Followers&style=social" alt="GitHub Followers" />
-</div>
-
-<div align="center">
-  <h3>💻 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D8FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%98%84;Let's+build+something+amazing+together!+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
