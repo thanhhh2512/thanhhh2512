@@ -24,6 +24,15 @@ const thanhDeveloper = {
 };
 ```
 
+<div align="center">
+  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/trongthanh.ta/?locale=vi_VN)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/th%C3%A0nh-t%E1%BA%A1-tr%E1%BB%8Dng-433493357/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tatrongthanh2002@gmail.com)
+
+
+</div>
+
 ## 💼 What I Do
 
 - 🔭 Currently working on **frontend web applications**
@@ -86,17 +95,6 @@ const thanhDeveloper = {
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanhhh2512&theme=algolia&hide_border=false" alt="GitHub Streak Stats" />
-</div>
-
-## 🌐 Let's Connect!
-
-<div align="center">
-  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/trongthanh.ta/?locale=vi_VN)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/th%C3%A0nh-t%E1%BA%A1-tr%E1%BB%8Dng-433493357/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tatrongthanh2002@gmail.com)
-
-
 </div>
 
 ---
